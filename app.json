@@ -1,0 +1,14 @@
+{
+	"name": "RemoteWarp-Renewal",
+	"description": "A simple python script which can be run on remote servers for getting unlimited quota renewal on Cloudflare WARP+ ",
+	"repository": "https://github.com/missemily2022/RemoteWarp-Renewal",
+        "website": "https://t.me/missemily2022",
+        "success_url": "https://github.com/missemily2022/RemoteWarp-Renewal/blob/main/README.md",
+	"env": {
+		"warp_id": {
+			"description": "Your Cloudflare Warp Plus ID",
+			"required": true
+		}
+	},
+    	"stack": "container"
+}
