@@ -35,7 +35,7 @@ Now paste this License Key ina a PC and get the Wrap+ Quota on your PC too.<br>
 ## ☂ Deploying on Railway.app
 
 1. For Direct Deploy,Click on the Below Button<br/>
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmissemily2022%2FRemoteWarp-Renewal&optionalEnvs=warp_id&warp_idDesc=Your+Cloudflare+Warp+Plus+ID&referralCode=jimmy)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fmissemily2022%2FRemoteWarp-Renewal&envs=warp_id&warp_idDesc=Your+Cloudflare+Warp+Plus+ID&referralCode=jimmy)
 
 2. Fill the following Environment Values as per below Instructions: 
 
